@@ -22,6 +22,7 @@ setup(
     name ="Air Quality Karnataka Prediction",
     version="0.0.1",
     author="Srithan,Gayatri,Rajat",
+    author_email="sritan09004@gmail.com",
     packages=find_packages(),
     install_requires =get_requirements()
 )
